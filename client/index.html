@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Gloomhaven Guides</title>
+    </head><!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <style type="text/css">
+        h1, h2 {
+            margin-bottom: 0;
+        }
+
+        html {
+            display: flex;
+            flex: 1;
+            height: 100%;
+        }
+
+        body, #root {
+            display: flex;
+            flex: 1;
+        }
+
+        .guide {
+            box-sizing: border-box;
+            padding-top: 1px;
+        }
+        .guide-header {
+            padding: 0 20px;
+            margin-bottom: 20px;
+        }
+        .guide-header > div {
+            border-bottom: 1px solid #222;
+            padding-bottom: 9px;
+        }
+
+        .guide-item {
+            padding: 0 20px;
+        }
+        .guide-item > div {
+            border-bottom: 1px solid #222;
+            margin: 0 0 20px;
+            padding-bottom: 9px;
+        }
+        .guide-item > div > h2 {
+            margin-top: 0;
+            padding-top: 20px;
+        }
+
+        .guide-item-images {
+            background-color: #F5F5F5;
+            padding: 20px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .guide-item-image {
+            text-align: center;
+            display: flex;
+            max-height: 500px;
+        }
+        .guide-item-image > div {
+            max-width: 100%;
+            max-height: 100%;
+            margin: 8px;
+            display: flex;
+            flex: 1 1 100%;
+        }
+        .guide-item-image > div > img {
+            height: 100%;
+            width: 100%;
+            object-fit: contain;
+        }
+
+        .guide-item-comment {
+            padding: 20px;
+        }
+
+        .guide-item-group {
+            position: relative;
+            background: #ffffff;
+        }
+    </style>
+    <body>
+        <div id="root"></div>
+
+        <!-- Dependencies -->
+        <script src="/node_modules/react/umd/react.development.js"></script>
+        <script src="/node_modules/react-dom/umd/react-dom.development.js"></script>
+
+        <!-- Main -->
+        <script src="/bundle.js"></script>
+    </body>
+</html>

@@ -1,0 +1,4017 @@
+{
+  "id": "type",
+  "name": "Image Type",
+  "items": [
+    {
+      "id": "class",
+      "name": "Class",
+      "items": [
+        {
+          "id": "class_01",
+          "name": "Class 01",
+          "image_id": "class_01_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_01_ability_001",
+                  "name": "Trample",
+                  "level": 1
+                },
+                {
+                  "id": "class_01_ability_002",
+                  "name": "Eye for and Eye",
+                  "level": 1
+                },
+                {
+                  "id": "class_01_ability_003",
+                  "name": "Sweeping Blow",
+                  "level": 1
+                },
+                {
+                  "id": "class_01_ability_004",
+                  "name": "Provoking Roar",
+                  "level": 1
+                },
+                {
+                  "id": "class_01_ability_005",
+                  "name": "Overwhelming Assault",
+                  "level": 1
+                },
+                {
+                  "id": "class_01_ability_006",
+                  "name": "Grab and Go",
+                  "level": 1
+                },
+                {
+                  "id": "class_01_ability_007",
+                  "name": "Warding Strength",
+                  "level": 1
+                },
+                {
+                  "id": "class_01_ability_008",
+                  "name": "Shield Bash",
+                  "level": 1
+                },
+                {
+                  "id": "class_01_ability_009",
+                  "name": "Leaping Cleave",
+                  "level": 1
+                },
+                {
+                  "id": "class_01_ability_010",
+                  "name": "Spare Dagger",
+                  "level": 1
+                },
+                {
+                  "id": "class_01_ability_011",
+                  "name": "Skewer",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_01_ability_012",
+                  "name": "Balanced Measure",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_01_ability_013",
+                  "name": "Wall of Doom",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_01_ability_014",
+                  "name": "Fatal Advance",
+                  "level": 2
+                },
+                {
+                  "id": "class_01_ability_015",
+                  "name": "Juggernaut",
+                  "level": 2
+                },
+                {
+                  "id": "class_01_ability_016",
+                  "name": "Hook and Chain",
+                  "level": 3
+                },
+                {
+                  "id": "class_01_ability_017",
+                  "name": "Brute Force",
+                  "level": 3
+                },
+                {
+                  "id": "class_01_ability_018",
+                  "name": "Unstoppable Charge",
+                  "level": 4
+                },
+                {
+                  "id": "class_01_ability_019",
+                  "name": "Devastating Hack",
+                  "level": 4
+                },
+                {
+                  "id": "class_01_ability_020",
+                  "name": "Whirlwind",
+                  "level": 5
+                },
+                {
+                  "id": "class_01_ability_021",
+                  "name": "Skirmishing Maneuver",
+                  "level": 5
+                },
+                {
+                  "id": "class_01_ability_022",
+                  "name": "Quietus",
+                  "level": 6
+                },
+                {
+                  "id": "class_01_ability_023",
+                  "name": "Immovable Phalanx",
+                  "level": 6
+                },
+                {
+                  "id": "class_01_ability_024",
+                  "name": "Defensive Tactics",
+                  "level": 7
+                },
+                {
+                  "id": "class_01_ability_025",
+                  "name": "Crippling Offence",
+                  "level": 7
+                },
+                {
+                  "id": "class_01_ability_026",
+                  "name": "Frenzied Onslaught",
+                  "level": 8
+                },
+                {
+                  "id": "class_01_ability_027",
+                  "name": "Selfish Retribution",
+                  "level": 8
+                },
+                {
+                  "id": "class_01_ability_028",
+                  "name": "King of the Hill",
+                  "level": 9
+                },
+                {
+                  "id": "class_01_ability_029",
+                  "name": "Face Your End",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_01_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_01_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_01_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_01_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_02",
+          "name": "Class 02",
+          "image_id": "class_02_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_02_ability_030",
+                  "name": "Proximity Mine",
+                  "level": 1
+                },
+                {
+                  "id": "class_02_ability_031",
+                  "name": "Harmless Contraption",
+                  "level": 1
+                },
+                {
+                  "id": "class_02_ability_032",
+                  "name": "Flamethrower",
+                  "level": 1
+                },
+                {
+                  "id": "class_02_ability_033",
+                  "name": "Hook Gun",
+                  "level": 1
+                },
+                {
+                  "id": "class_02_ability_034",
+                  "name": "Ink Bomb",
+                  "level": 1
+                },
+                {
+                  "id": "class_02_ability_035",
+                  "name": "Net Shooter",
+                  "level": 1
+                },
+                {
+                  "id": "class_02_ability_036",
+                  "name": "Stun Gun",
+                  "level": 1
+                },
+                {
+                  "id": "class_02_ability_037",
+                  "name": "Reinvigorating Elixir",
+                  "level": 1
+                },
+                {
+                  "id": "class_02_ability_038",
+                  "name": "Restorative Mist",
+                  "level": 1
+                },
+                {
+                  "id": "class_02_ability_039",
+                  "name": "Energizing Toxin",
+                  "level": 1
+                },
+                {
+                  "id": "class_02_ability_040",
+                  "name": "Enhancement Field",
+                  "level": 1
+                },
+                {
+                  "id": "class_02_ability_041",
+                  "name": "Toxic Bolt",
+                  "level": 1
+                },
+                {
+                  "id": "class_02_ability_042",
+                  "name": "Reviving Shock",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_02_ability_043",
+                  "name": "Volatile Concoction",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_02_ability_044",
+                  "name": "Potent Potables",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_02_ability_045",
+                  "name": "Stamina Booster",
+                  "level": 2
+                },
+                {
+                  "id": "class_02_ability_046",
+                  "name": "Disorienting Flash",
+                  "level": 2
+                },
+                {
+                  "id": "class_02_ability_047",
+                  "name": "Tinkerer's Tools",
+                  "level": 3
+                },
+                {
+                  "id": "class_02_ability_048",
+                  "name": "Crank Bow",
+                  "level": 3
+                },
+                {
+                  "id": "class_02_ability_049",
+                  "name": "Dangerous Contraption",
+                  "level": 4
+                },
+                {
+                  "id": "class_02_ability_050",
+                  "name": "Micro Bots",
+                  "level": 4
+                },
+                {
+                  "id": "class_02_ability_051",
+                  "name": "Noxious Vials",
+                  "level": 5
+                },
+                {
+                  "id": "class_02_ability_052",
+                  "name": "Disintegration Beam",
+                  "level": 5
+                },
+                {
+                  "id": "class_02_ability_053",
+                  "name": "Gas Canister",
+                  "level": 6
+                },
+                {
+                  "id": "class_02_ability_054",
+                  "name": "Auto Turret",
+                  "level": 6
+                },
+                {
+                  "id": "class_02_ability_055",
+                  "name": "Murderous Contraption",
+                  "level": 7
+                },
+                {
+                  "id": "class_02_ability_056",
+                  "name": "Curative Aerosol",
+                  "level": 7
+                },
+                {
+                  "id": "class_02_ability_057",
+                  "name": "Jet Propulsion",
+                  "level": 8
+                },
+                {
+                  "id": "class_02_ability_058",
+                  "name": "Harsh Stimulants",
+                  "level": 8
+                },
+                {
+                  "id": "class_02_ability_059",
+                  "name": "Lethal Injection",
+                  "level": 9
+                },
+                {
+                  "id": "class_02_ability_060",
+                  "name": "Chimeric Formula",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_02_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_02_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_02_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_02_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_03",
+          "name": "Class 03",
+          "image_id": "class_03_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_03_ability_061",
+                  "name": "Fire Orbs",
+                  "level": 1
+                },
+                {
+                  "id": "class_03_ability_062",
+                  "name": "Impaling Eruption",
+                  "level": 1
+                },
+                {
+                  "id": "class_03_ability_063",
+                  "name": "Reviving Ether",
+                  "level": 1
+                },
+                {
+                  "id": "class_03_ability_064",
+                  "name": "Freezing Nova",
+                  "level": 1
+                },
+                {
+                  "id": "class_03_ability_065",
+                  "name": "Mana Bolt",
+                  "level": 1
+                },
+                {
+                  "id": "class_03_ability_066",
+                  "name": "Frost Armor",
+                  "level": 1
+                },
+                {
+                  "id": "class_03_ability_067",
+                  "name": "Flame Strike",
+                  "level": 1
+                },
+                {
+                  "id": "class_03_ability_068",
+                  "name": "Ride the Wind",
+                  "level": 1
+                },
+                {
+                  "id": "class_03_ability_069",
+                  "name": "Crackling Air",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_03_ability_070",
+                  "name": "Hardened Spikes",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_03_ability_071",
+                  "name": "Air from the Ether",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_03_ability_072",
+                  "name": "Flashing Burst",
+                  "level": 2
+                },
+                {
+                  "id": "class_03_ability_073",
+                  "name": "Icy Blast",
+                  "level": 2
+                },
+                {
+                  "id": "class_03_ability_074",
+                  "name": "Cold Fire",
+                  "level": 3
+                },
+                {
+                  "id": "class_03_ability_075",
+                  "name": "Elemental Aid",
+                  "level": 3
+                },
+                {
+                  "id": "class_03_ability_076",
+                  "name": "Spirit of Doom",
+                  "level": 4
+                },
+                {
+                  "id": "class_03_ability_077",
+                  "name": "Forked Beam",
+                  "level": 4
+                },
+                {
+                  "id": "class_03_ability_078",
+                  "name": "Chromatic Explosion",
+                  "level": 5
+                },
+                {
+                  "id": "class_03_ability_079",
+                  "name": "Engulfed in Flames",
+                  "level": 5
+                },
+                {
+                  "id": "class_03_ability_080",
+                  "name": "Living Torch",
+                  "level": 6
+                },
+                {
+                  "id": "class_03_ability_081",
+                  "name": "Frozen Night",
+                  "level": 6
+                },
+                {
+                  "id": "class_03_ability_082",
+                  "name": "Twin Restoration",
+                  "level": 7
+                },
+                {
+                  "id": "class_03_ability_083",
+                  "name": "Stone Fists",
+                  "level": 7
+                },
+                {
+                  "id": "class_03_ability_084",
+                  "name": "Zephyr Wings",
+                  "level": 8
+                },
+                {
+                  "id": "class_03_ability_085",
+                  "name": "Cold Front",
+                  "level": 8
+                },
+                {
+                  "id": "class_03_ability_086",
+                  "name": "Black Hole",
+                  "level": 9
+                },
+                {
+                  "id": "class_03_ability_087",
+                  "name": "Inferno",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_03_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_03_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_03_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_03_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_04",
+          "name": "Class 04",
+          "image_id": "class_04_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_04_ability_088",
+                  "name": "Single Out",
+                  "level": 1
+                },
+                {
+                  "id": "class_04_ability_089",
+                  "name": "Flanking Strike",
+                  "level": 1
+                },
+                {
+                  "id": "class_04_ability_090",
+                  "name": "Smoke Bomb",
+                  "level": 1
+                },
+                {
+                  "id": "class_04_ability_091",
+                  "name": "Backstab",
+                  "level": 1
+                },
+                {
+                  "id": "class_04_ability_092",
+                  "name": "Thief's Knack",
+                  "level": 1
+                },
+                {
+                  "id": "class_04_ability_093",
+                  "name": "Venom Shiv",
+                  "level": 1
+                },
+                {
+                  "id": "class_04_ability_094",
+                  "name": "Throwing Knives",
+                  "level": 1
+                },
+                {
+                  "id": "class_04_ability_095",
+                  "name": "Quick Hands",
+                  "level": 1
+                },
+                {
+                  "id": "class_04_ability_096",
+                  "name": "Special Mixture",
+                  "level": 1
+                },
+                {
+                  "id": "class_04_ability_097",
+                  "name": "Sinister Opportunity",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_04_ability_098",
+                  "name": "Trickster's Reversal",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_04_ability_099",
+                  "name": "Swift Bow",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_04_ability_100",
+                  "name": "Open Wound",
+                  "level": 2
+                },
+                {
+                  "id": "class_04_ability_101",
+                  "name": "Flintlock",
+                  "level": 2
+                },
+                {
+                  "id": "class_04_ability_102",
+                  "name": "Hidden Daggers",
+                  "level": 3
+                },
+                {
+                  "id": "class_04_ability_103",
+                  "name": "Duelist's Advance",
+                  "level": 3
+                },
+                {
+                  "id": "class_04_ability_104",
+                  "name": "Flurry of Blades",
+                  "level": 4
+                },
+                {
+                  "id": "class_04_ability_105",
+                  "name": "Gruesome Advantage",
+                  "level": 4
+                },
+                {
+                  "id": "class_04_ability_106",
+                  "name": "Cull of Weak",
+                  "level": 5
+                },
+                {
+                  "id": "class_04_ability_107",
+                  "name": "Visage of the Inevitable",
+                  "level": 5
+                },
+                {
+                  "id": "class_04_ability_108",
+                  "name": "Crippling Poison",
+                  "level": 6
+                },
+                {
+                  "id": "class_04_ability_109",
+                  "name": "Burning Oil",
+                  "level": 6
+                },
+                {
+                  "id": "class_04_ability_110",
+                  "name": "Stick to the Shadows",
+                  "level": 7
+                },
+                {
+                  "id": "class_04_ability_111",
+                  "name": "Spring the Trap",
+                  "level": 7
+                },
+                {
+                  "id": "class_04_ability_112",
+                  "name": "Stiletto Storm",
+                  "level": 8
+                },
+                {
+                  "id": "class_04_ability_113",
+                  "name": "Pain's End",
+                  "level": 8
+                },
+                {
+                  "id": "class_04_ability_114",
+                  "name": "Long Con",
+                  "level": 9
+                },
+                {
+                  "id": "class_04_ability_115",
+                  "name": "Watch it Burn",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_04_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_04_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_04_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_04_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_05",
+          "name": "Class 05",
+          "image_id": "class_05_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_05_ability_116",
+                  "name": "Opposing Strike",
+                  "level": 1
+                },
+                {
+                  "id": "class_05_ability_117",
+                  "name": "Crushing Grasp",
+                  "level": 1
+                },
+                {
+                  "id": "class_05_ability_118",
+                  "name": "Avalanche",
+                  "level": 1
+                },
+                {
+                  "id": "class_05_ability_119",
+                  "name": "Rumbling Advance",
+                  "level": 1
+                },
+                {
+                  "id": "class_05_ability_120",
+                  "name": "Massive Boulder",
+                  "level": 1
+                },
+                {
+                  "id": "class_05_ability_121",
+                  "name": "Backup Ammunition",
+                  "level": 1
+                },
+                {
+                  "id": "class_05_ability_122",
+                  "name": "Rock Tunnel",
+                  "level": 1
+                },
+                {
+                  "id": "class_05_ability_123",
+                  "name": "Unstable Upheaval",
+                  "level": 1
+                },
+                {
+                  "id": "class_05_ability_124",
+                  "name": "Crater",
+                  "level": 1
+                },
+                {
+                  "id": "class_05_ability_125",
+                  "name": "Dirt Tornado",
+                  "level": 1
+                },
+                {
+                  "id": "class_05_ability_126",
+                  "name": "Earthen Clod",
+                  "level": 1
+                },
+                {
+                  "id": "class_05_ability_127",
+                  "name": "Heaving Swing",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_05_ability_128",
+                  "name": "Forceful Storm",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_05_ability_129",
+                  "name": "Nature's Lift",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_05_ability_130",
+                  "name": "Explosive Punch",
+                  "level": 2
+                },
+                {
+                  "id": "class_05_ability_131",
+                  "name": "Sentient Growth",
+                  "level": 2
+                },
+                {
+                  "id": "class_05_ability_132",
+                  "name": "Clear the Way",
+                  "level": 3
+                },
+                {
+                  "id": "class_05_ability_133",
+                  "name": "Blunt Force",
+                  "level": 3
+                },
+                {
+                  "id": "class_05_ability_134",
+                  "name": "Rock Slide",
+                  "level": 4
+                },
+                {
+                  "id": "class_05_ability_135",
+                  "name": "Kinetic Assault",
+                  "level": 4
+                },
+                {
+                  "id": "class_05_ability_136",
+                  "name": "Petrify",
+                  "level": 5
+                },
+                {
+                  "id": "class_05_ability_137",
+                  "name": "Stone Pummel",
+                  "level": 5
+                },
+                {
+                  "id": "class_05_ability_138",
+                  "name": "Dig Pit",
+                  "level": 6
+                },
+                {
+                  "id": "class_05_ability_139",
+                  "name": "Cataclysm",
+                  "level": 6
+                },
+                {
+                  "id": "class_05_ability_140",
+                  "name": "Meteor",
+                  "level": 7
+                },
+                {
+                  "id": "class_05_ability_141",
+                  "name": "Brutal Momentum",
+                  "level": 7
+                },
+                {
+                  "id": "class_05_ability_142",
+                  "name": "Rocky End",
+                  "level": 8
+                },
+                {
+                  "id": "class_05_ability_143",
+                  "name": "Lumbering Bash",
+                  "level": 8
+                },
+                {
+                  "id": "class_05_ability_144",
+                  "name": "Blind Destruction",
+                  "level": 9
+                },
+                {
+                  "id": "class_05_ability_145",
+                  "name": "Pulverize",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_05_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_05_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_05_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_05_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_06",
+          "name": "Class 06",
+          "image_id": "class_06_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_06_ability_146",
+                  "name": "Submissive Affliction",
+                  "level": 1
+                },
+                {
+                  "id": "class_06_ability_147",
+                  "name": "Into the Night",
+                  "level": 1
+                },
+                {
+                  "id": "class_06_ability_148",
+                  "name": "Fearsome Blade",
+                  "level": 1
+                },
+                {
+                  "id": "class_06_ability_149",
+                  "name": "Feedback Loop",
+                  "level": 1
+                },
+                {
+                  "id": "class_06_ability_150",
+                  "name": "Gnawing Horde",
+                  "level": 1
+                },
+                {
+                  "id": "class_06_ability_151",
+                  "name": "The Mind's Weakness",
+                  "level": 1
+                },
+                {
+                  "id": "class_06_ability_152",
+                  "name": "Parasitic Influence",
+                  "level": 1
+                },
+                {
+                  "id": "class_06_ability_153",
+                  "name": "Scurry",
+                  "level": 1
+                },
+                {
+                  "id": "class_06_ability_154",
+                  "name": "Perverse Edge",
+                  "level": 1
+                },
+                {
+                  "id": "class_06_ability_155",
+                  "name": "Empathetic Assault",
+                  "level": 1
+                },
+                {
+                  "id": "class_06_ability_156",
+                  "name": "Withering Claw",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_06_ability_157",
+                  "name": "Possession",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_06_ability_158",
+                  "name": "Frigid Apparition",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_06_ability_159",
+                  "name": "Wreteched Creature",
+                  "level": 2
+                },
+                {
+                  "id": "class_06_ability_160",
+                  "name": "Hostile Takeover",
+                  "level": 2
+                },
+                {
+                  "id": "class_06_ability_161",
+                  "name": "Brain Leech",
+                  "level": 3
+                },
+                {
+                  "id": "class_06_ability_162",
+                  "name": "Silent Scream",
+                  "level": 3
+                },
+                {
+                  "id": "class_06_ability_163",
+                  "name": "Pilfer",
+                  "level": 4
+                },
+                {
+                  "id": "class_06_ability_164",
+                  "name": "Cranium Overload",
+                  "level": 4
+                },
+                {
+                  "id": "class_06_ability_165",
+                  "name": "Mass Hysteria",
+                  "level": 5
+                },
+                {
+                  "id": "class_06_ability_166",
+                  "name": "Frozen Mind",
+                  "level": 5
+                },
+                {
+                  "id": "class_06_ability_167",
+                  "name": "Corrupting Embrace",
+                  "level": 6
+                },
+                {
+                  "id": "class_06_ability_168",
+                  "name": "Dark Frenzy",
+                  "level": 6
+                },
+                {
+                  "id": "class_06_ability_169",
+                  "name": "Vicious Blood",
+                  "level": 7
+                },
+                {
+                  "id": "class_06_ability_170",
+                  "name": "Psychic Projection",
+                  "level": 7
+                },
+                {
+                  "id": "class_06_ability_171",
+                  "name": "Shared Nightmare",
+                  "level": 8
+                },
+                {
+                  "id": "class_06_ability_172",
+                  "name": "Domination",
+                  "level": 8
+                },
+                {
+                  "id": "class_06_ability_173",
+                  "name": "Many as One",
+                  "level": 9
+                },
+                {
+                  "id": "class_06_ability_174",
+                  "name": "Phantasmal Killer",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_06_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_06_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_06_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_06_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_07",
+          "name": "Class 07",
+          "image_id": "class_07_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_07_ability_175",
+                  "name": "Purifying Aura",
+                  "level": 1
+                },
+                {
+                  "id": "class_07_ability_176",
+                  "name": "Cautious Advance",
+                  "level": 1
+                },
+                {
+                  "id": "class_07_ability_177",
+                  "name": "Brilliant Prayer",
+                  "level": 1
+                },
+                {
+                  "id": "class_07_ability_178",
+                  "name": "Empowering Command",
+                  "level": 1
+                },
+                {
+                  "id": "class_07_ability_179",
+                  "name": "Protective Blessing",
+                  "level": 1
+                },
+                {
+                  "id": "class_07_ability_180",
+                  "name": "Dazzling Charge",
+                  "level": 1
+                },
+                {
+                  "id": "class_07_ability_181",
+                  "name": "Tactical Order",
+                  "level": 1
+                },
+                {
+                  "id": "class_07_ability_182",
+                  "name": "Holy Strike",
+                  "level": 1
+                },
+                {
+                  "id": "class_07_ability_183",
+                  "name": "Hammer Blow",
+                  "level": 1
+                },
+                {
+                  "id": "class_07_ability_184",
+                  "name": "Defensive Stance",
+                  "level": 1
+                },
+                {
+                  "id": "class_07_ability_185",
+                  "name": "Lay on Hands",
+                  "level": 1
+                },
+                {
+                  "id": "class_07_ability_186",
+                  "name": "Daybreak",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_07_ability_187",
+                  "name": "Beacon of Light",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_07_ability_188",
+                  "name": "Glorious Bolt",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_07_ability_189",
+                  "name": "Practical Plans",
+                  "level": 2
+                },
+                {
+                  "id": "class_07_ability_190",
+                  "name": "Unwavering Mandate",
+                  "level": 2
+                },
+                {
+                  "id": "class_07_ability_191",
+                  "name": "Burning Flash",
+                  "level": 3
+                },
+                {
+                  "id": "class_07_ability_192",
+                  "name": "Mobilizing Axiom",
+                  "level": 3
+                },
+                {
+                  "id": "class_07_ability_193",
+                  "name": "Righteous Strength",
+                  "level": 4
+                },
+                {
+                  "id": "class_07_ability_194",
+                  "name": "Engulfing Radiance",
+                  "level": 4
+                },
+                {
+                  "id": "class_07_ability_195",
+                  "name": "Path of Glory",
+                  "level": 5
+                },
+                {
+                  "id": "class_07_ability_196",
+                  "name": "Scales of Justice",
+                  "level": 5
+                },
+                {
+                  "id": "class_07_ability_197",
+                  "name": "Supportive Chant",
+                  "level": 6
+                },
+                {
+                  "id": "class_07_ability_198",
+                  "name": "Illuminate the Target",
+                  "level": 6
+                },
+                {
+                  "id": "class_07_ability_199",
+                  "name": "Weapon of Purity",
+                  "level": 7
+                },
+                {
+                  "id": "class_07_ability_200",
+                  "name": "Bright Aegis",
+                  "level": 7
+                },
+                {
+                  "id": "class_07_ability_201",
+                  "name": "Cleaning Force",
+                  "level": 8
+                },
+                {
+                  "id": "class_07_ability_202",
+                  "name": "Inspiring Sanctity",
+                  "level": 8
+                },
+                {
+                  "id": "class_07_ability_203",
+                  "name": "Angelic Ascension",
+                  "level": 9
+                },
+                {
+                  "id": "class_07_ability_204",
+                  "name": "Divine Intervention",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_07_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_07_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_07_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_07_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_08",
+          "name": "Class 08",
+          "image_id": "class_08_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_08_ability_205",
+                  "name": "Restock",
+                  "level": 1
+                },
+                {
+                  "id": "class_08_ability_206",
+                  "name": "Oversized Pack",
+                  "level": 1
+                },
+                {
+                  "id": "class_08_ability_207",
+                  "name": "Sharpening Kit",
+                  "level": 1
+                },
+                {
+                  "id": "class_08_ability_208",
+                  "name": "Proficiency",
+                  "level": 1
+                },
+                {
+                  "id": "class_08_ability_209",
+                  "name": "Iron Bulwark",
+                  "level": 1
+                },
+                {
+                  "id": "class_08_ability_210",
+                  "name": "Hastened Step",
+                  "level": 1
+                },
+                {
+                  "id": "class_08_ability_211",
+                  "name": "Cleaving Axe",
+                  "level": 1
+                },
+                {
+                  "id": "class_08_ability_212",
+                  "name": "Impaling Spear",
+                  "level": 1
+                },
+                {
+                  "id": "class_08_ability_213",
+                  "name": "Crippling Bow",
+                  "level": 1
+                },
+                {
+                  "id": "class_08_ability_214",
+                  "name": "Crushing Hammer",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_08_ability_215",
+                  "name": "Scroll of Recall",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_08_ability_216",
+                  "name": "Reserved Energy",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_08_ability_217",
+                  "name": "Reforge",
+                  "level": 2
+                },
+                {
+                  "id": "class_08_ability_218",
+                  "name": "Bladed Boomerang",
+                  "level": 2
+                },
+                {
+                  "id": "class_08_ability_219",
+                  "name": "Continual Supply",
+                  "level": 3
+                },
+                {
+                  "id": "class_08_ability_220",
+                  "name": "Scroll of Lightning",
+                  "level": 3
+                },
+                {
+                  "id": "class_08_ability_221",
+                  "name": "Side Pouch",
+                  "level": 4
+                },
+                {
+                  "id": "class_08_ability_222",
+                  "name": "Giant Club",
+                  "level": 4
+                },
+                {
+                  "id": "class_08_ability_223",
+                  "name": "Reinforced Steel",
+                  "level": 5
+                },
+                {
+                  "id": "class_08_ability_224",
+                  "name": "Scroll of Judgment",
+                  "level": 5
+                },
+                {
+                  "id": "class_08_ability_225",
+                  "name": "Catastrophic Bomb",
+                  "level": 6
+                },
+                {
+                  "id": "class_08_ability_226",
+                  "name": "Quiver of Arrows",
+                  "level": 6
+                },
+                {
+                  "id": "class_08_ability_227",
+                  "name": "Scroll of Blizzards",
+                  "level": 7
+                },
+                {
+                  "id": "class_08_ability_228",
+                  "name": "Refreshment",
+                  "level": 7
+                },
+                {
+                  "id": "class_08_ability_229",
+                  "name": "Portable Ballista",
+                  "level": 8
+                },
+                {
+                  "id": "class_08_ability_230",
+                  "name": "Fortified Position",
+                  "level": 8
+                },
+                {
+                  "id": "class_08_ability_231",
+                  "name": "Scroll of Annihilation",
+                  "level": 9
+                },
+                {
+                  "id": "class_08_ability_232",
+                  "name": "Bag of Holding",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_08_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_08_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_08_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_08_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_09",
+          "name": "Class 09",
+          "image_id": "class_09_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_09_ability_233",
+                  "name": "Forged Ferocity",
+                  "level": 1
+                },
+                {
+                  "id": "class_09_ability_234",
+                  "name": "Wild Animation",
+                  "level": 1
+                },
+                {
+                  "id": "class_09_ability_235",
+                  "name": "Living Night",
+                  "level": 1
+                },
+                {
+                  "id": "class_09_ability_236",
+                  "name": "Unending Dominance",
+                  "level": 1
+                },
+                {
+                  "id": "class_09_ability_237",
+                  "name": "Unwavering Hand",
+                  "level": 1
+                },
+                {
+                  "id": "class_09_ability_238",
+                  "name": "Mighty Bond",
+                  "level": 1
+                },
+                {
+                  "id": "class_09_ability_239",
+                  "name": "Bonded Might",
+                  "level": 1
+                },
+                {
+                  "id": "class_09_ability_240",
+                  "name": "Biting Wind",
+                  "level": 1
+                },
+                {
+                  "id": "class_09_ability_241",
+                  "name": "Black Fire",
+                  "level": 1
+                },
+                {
+                  "id": "class_09_ability_242",
+                  "name": "Leathery Wings",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_09_ability_243",
+                  "name": "Volatile Flame",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_09_ability_244",
+                  "name": "Ethereal Vines",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_09_ability_245",
+                  "name": "Earthen Steed",
+                  "level": 2
+                },
+                {
+                  "id": "class_09_ability_246",
+                  "name": "Grasping the Void",
+                  "level": 2
+                },
+                {
+                  "id": "class_09_ability_247",
+                  "name": "Tear the Fabric",
+                  "level": 3
+                },
+                {
+                  "id": "class_09_ability_248",
+                  "name": "Oozing Manifestation",
+                  "level": 3
+                },
+                {
+                  "id": "class_09_ability_249",
+                  "name": "Living Mountain",
+                  "level": 4
+                },
+                {
+                  "id": "class_09_ability_250",
+                  "name": "Divided Mind",
+                  "level": 4
+                },
+                {
+                  "id": "class_09_ability_251",
+                  "name": "Strength in Numbers",
+                  "level": 5
+                },
+                {
+                  "id": "class_09_ability_252",
+                  "name": "Conjured Aid",
+                  "level": 5
+                },
+                {
+                  "id": "class_09_ability_253",
+                  "name": "Endless Spikes",
+                  "level": 6
+                },
+                {
+                  "id": "class_09_ability_254",
+                  "name": "Inexorable Momentum",
+                  "level": 6
+                },
+                {
+                  "id": "class_09_ability_255",
+                  "name": "Negative Energy",
+                  "level": 7
+                },
+                {
+                  "id": "class_09_ability_256",
+                  "name": "Staff of Visions",
+                  "level": 7
+                },
+                {
+                  "id": "class_09_ability_257",
+                  "name": "Intervening Apparitions",
+                  "level": 8
+                },
+                {
+                  "id": "class_09_ability_258",
+                  "name": "Otherworldly Rage",
+                  "level": 8
+                },
+                {
+                  "id": "class_09_ability_259",
+                  "name": "Interplanar Mastery",
+                  "level": 9
+                },
+                {
+                  "id": "class_09_ability_260",
+                  "name": "Horned Majesty",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_09_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_09_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_09_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_09_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_10",
+          "name": "Class 10",
+          "image_id": "class_10_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_10_ability_261",
+                  "name": "Black Knives",
+                  "level": 1
+                },
+                {
+                  "id": "class_10_ability_262",
+                  "name": "Cloak of Shade",
+                  "level": 1
+                },
+                {
+                  "id": "class_10_ability_263",
+                  "name": "Empowering Void",
+                  "level": 1
+                },
+                {
+                  "id": "class_10_ability_264",
+                  "name": "Doomed Breeze",
+                  "level": 1
+                },
+                {
+                  "id": "class_10_ability_265",
+                  "name": "Enervating Wound",
+                  "level": 1
+                },
+                {
+                  "id": "class_10_ability_266",
+                  "name": "Spirit of the Night",
+                  "level": 1
+                },
+                {
+                  "id": "class_10_ability_267",
+                  "name": "Dancing Shadows",
+                  "level": 1
+                },
+                {
+                  "id": "class_10_ability_268",
+                  "name": "Silent Force",
+                  "level": 1
+                },
+                {
+                  "id": "class_10_ability_269",
+                  "name": "Smoke Step",
+                  "level": 1
+                },
+                {
+                  "id": "class_10_ability_270",
+                  "name": "Wings of the Night",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_10_ability_271",
+                  "name": "Concealed Dominance",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_10_ability_272",
+                  "name": "Dark Cloud",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_10_ability_273",
+                  "name": "Prepare for the Kill",
+                  "level": 2
+                },
+                {
+                  "id": "class_10_ability_274",
+                  "name": "Soulfire",
+                  "level": 2
+                },
+                {
+                  "id": "class_10_ability_275",
+                  "name": "Terror Blade",
+                  "level": 3
+                },
+                {
+                  "id": "class_10_ability_276",
+                  "name": "Armor of the Night",
+                  "level": 3
+                },
+                {
+                  "id": "class_10_ability_277",
+                  "name": "Nightfall",
+                  "level": 4
+                },
+                {
+                  "id": "class_10_ability_278",
+                  "name": "Grim Sustenance",
+                  "level": 4
+                },
+                {
+                  "id": "class_10_ability_279",
+                  "name": "Claws of the Night",
+                  "level": 5
+                },
+                {
+                  "id": "class_10_ability_280",
+                  "name": "Black Arrow",
+                  "level": 5
+                },
+                {
+                  "id": "class_10_ability_281",
+                  "name": "Unseen Dread",
+                  "level": 6
+                },
+                {
+                  "id": "class_10_ability_282",
+                  "name": "Swallowed by Fear",
+                  "level": 6
+                },
+                {
+                  "id": "class_10_ability_283",
+                  "name": "Eyes of the Night",
+                  "level": 7
+                },
+                {
+                  "id": "class_10_ability_284",
+                  "name": "Quiet Frenzy",
+                  "level": 7
+                },
+                {
+                  "id": "class_10_ability_285",
+                  "name": "Gloom Darts",
+                  "level": 8
+                },
+                {
+                  "id": "class_10_ability_286",
+                  "name": "Lurking Ruin",
+                  "level": 8
+                },
+                {
+                  "id": "class_10_ability_287",
+                  "name": "Angel of Death",
+                  "level": 9
+                },
+                {
+                  "id": "class_10_ability_288",
+                  "name": "Voice of the Night",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_10_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_10_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_10_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_10_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_11",
+          "name": "Class 11",
+          "image_id": "class_11_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_11_ability_289",
+                  "name": "Vile Pestilence",
+                  "level": 1
+                },
+                {
+                  "id": "class_11_ability_290",
+                  "name": "Grasping Vermin",
+                  "level": 1
+                },
+                {
+                  "id": "class_11_ability_291",
+                  "name": "Wretched Swarm",
+                  "level": 1
+                },
+                {
+                  "id": "class_11_ability_292",
+                  "name": "Spread the Plague",
+                  "level": 1
+                },
+                {
+                  "id": "class_11_ability_293",
+                  "name": "Biting Gnats",
+                  "level": 1
+                },
+                {
+                  "id": "class_11_ability_294",
+                  "name": "Winged Congregation",
+                  "level": 1
+                },
+                {
+                  "id": "class_11_ability_295",
+                  "name": "Creeping Curse",
+                  "level": 1
+                },
+                {
+                  "id": "class_11_ability_296",
+                  "name": "Gathering Doom",
+                  "level": 1
+                },
+                {
+                  "id": "class_11_ability_297",
+                  "name": "Paralyzing Bite",
+                  "level": 1
+                },
+                {
+                  "id": "class_11_ability_298",
+                  "name": "Foul Wind",
+                  "level": 1
+                },
+                {
+                  "id": "class_11_ability_299",
+                  "name": "Scattered Terror",
+                  "level": 1
+                },
+                {
+                  "id": "class_11_ability_300",
+                  "name": "Epidemic",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_11_ability_301",
+                  "name": "Virulent Strain",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_11_ability_302",
+                  "name": "Blistering Vortex",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_11_ability_303",
+                  "name": "Under the Skin",
+                  "level": 2
+                },
+                {
+                  "id": "class_11_ability_304",
+                  "name": "Rot Maggots",
+                  "level": 2
+                },
+                {
+                  "id": "class_11_ability_305",
+                  "name": "Succumb to the Gift",
+                  "level": 3
+                },
+                {
+                  "id": "class_11_ability_306",
+                  "name": "Fetid Flurry",
+                  "level": 3
+                },
+                {
+                  "id": "class_11_ability_307",
+                  "name": "Storm of Wings",
+                  "level": 4
+                },
+                {
+                  "id": "class_11_ability_308",
+                  "name": "Nightmarish Affliction",
+                  "level": 4
+                },
+                {
+                  "id": "class_11_ability_309",
+                  "name": "Accelerated End",
+                  "level": 5
+                },
+                {
+                  "id": "class_11_ability_310",
+                  "name": "Willing Sacrifice",
+                  "level": 5
+                },
+                {
+                  "id": "class_11_ability_311",
+                  "name": "Stining Cloud",
+                  "level": 6
+                },
+                {
+                  "id": "class_11_ability_312",
+                  "name": "Black Tides",
+                  "level": 6
+                },
+                {
+                  "id": "class_11_ability_313",
+                  "name": "Airborne Toxin",
+                  "level": 7
+                },
+                {
+                  "id": "class_11_ability_314",
+                  "name": "Baneful Hex",
+                  "level": 7
+                },
+                {
+                  "id": "class_11_ability_315",
+                  "name": "Spreading Scourge",
+                  "level": 8
+                },
+                {
+                  "id": "class_11_ability_316",
+                  "name": "Grim Bargain",
+                  "level": 8
+                },
+                {
+                  "id": "class_11_ability_317",
+                  "name": "Mass Extinction",
+                  "level": 9
+                },
+                {
+                  "id": "class_11_ability_318",
+                  "name": "Convert the Flock",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_11_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_11_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_11_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_11_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_12",
+          "name": "Class 12",
+          "image_id": "class_12_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_12_ability_319",
+                  "name": "Resolute Stand",
+                  "level": 1
+                },
+                {
+                  "id": "class_12_ability_320",
+                  "name": "Growling Rage",
+                  "level": 1
+                },
+                {
+                  "id": "class_12_ability_321",
+                  "name": "Strength in Agony",
+                  "level": 1
+                },
+                {
+                  "id": "class_12_ability_322",
+                  "name": "Defiance of Death",
+                  "level": 1
+                },
+                {
+                  "id": "class_12_ability_323",
+                  "name": "From the Brink",
+                  "level": 1
+                },
+                {
+                  "id": "class_12_ability_324",
+                  "name": "Blood Pact",
+                  "level": 1
+                },
+                {
+                  "id": "class_12_ability_325",
+                  "name": "Cauterize",
+                  "level": 1
+                },
+                {
+                  "id": "class_12_ability_326",
+                  "name": "Dazing Wound",
+                  "level": 1
+                },
+                {
+                  "id": "class_12_ability_327",
+                  "name": "Furious Aid",
+                  "level": 1
+                },
+                {
+                  "id": "class_12_ability_328",
+                  "name": "Bounce Back",
+                  "level": 1
+                },
+                {
+                  "id": "class_12_ability_329",
+                  "name": "Unbridled Power",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_12_ability_330",
+                  "name": "Glass Hammer",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_12_ability_331",
+                  "name": "Numb the Pain",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_12_ability_332",
+                  "name": "Reckless Offensive",
+                  "level": 2
+                },
+                {
+                  "id": "class_12_ability_333",
+                  "name": "Break the Chains",
+                  "level": 2
+                },
+                {
+                  "id": "class_12_ability_334",
+                  "name": "Spiked Armor",
+                  "level": 3
+                },
+                {
+                  "id": "class_12_ability_335",
+                  "name": "Fatal Fury",
+                  "level": 3
+                },
+                {
+                  "id": "class_12_ability_336",
+                  "name": "Flurry of Axes",
+                  "level": 4
+                },
+                {
+                  "id": "class_12_ability_337",
+                  "name": "Shiny Distraction",
+                  "level": 4
+                },
+                {
+                  "id": "class_12_ability_338",
+                  "name": "Seeing Red",
+                  "level": 5
+                },
+                {
+                  "id": "class_12_ability_339",
+                  "name": "Final Fight",
+                  "level": 5
+                },
+                {
+                  "id": "class_12_ability_340",
+                  "name": "Devil Horns",
+                  "level": 6
+                },
+                {
+                  "id": "class_12_ability_341",
+                  "name": "Unstoppable Destruction",
+                  "level": 6
+                },
+                {
+                  "id": "class_12_ability_342",
+                  "name": "Burning Hatred",
+                  "level": 7
+                },
+                {
+                  "id": "class_12_ability_343",
+                  "name": "Careless Charge",
+                  "level": 7
+                },
+                {
+                  "id": "class_12_ability_344",
+                  "name": "Bone Breaker",
+                  "level": 8
+                },
+                {
+                  "id": "class_12_ability_345",
+                  "name": "Vengeful Barrage",
+                  "level": 8
+                },
+                {
+                  "id": "class_12_ability_346",
+                  "name": "Immortality",
+                  "level": 9
+                },
+                {
+                  "id": "class_12_ability_347",
+                  "name": "The Maw of Madness",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_12_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_12_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_12_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_12_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_13",
+          "name": "Class 13",
+          "image_id": "class_13_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_13_ability_348",
+                  "name": "Power Ballad",
+                  "level": 1
+                },
+                {
+                  "id": "class_13_ability_349",
+                  "name": "Defensive Ditty",
+                  "level": 1
+                },
+                {
+                  "id": "class_13_ability_350",
+                  "name": "Song of Speed",
+                  "level": 1
+                },
+                {
+                  "id": "class_13_ability_351",
+                  "name": "Tuning the Outcome",
+                  "level": 1
+                },
+                {
+                  "id": "class_13_ability_352",
+                  "name": "Call to Action",
+                  "level": 1
+                },
+                {
+                  "id": "class_13_ability_353",
+                  "name": "Warding Dagger",
+                  "level": 1
+                },
+                {
+                  "id": "class_13_ability_354",
+                  "name": "Throw Voice",
+                  "level": 1
+                },
+                {
+                  "id": "class_13_ability_355",
+                  "name": "Singing Arrow",
+                  "level": 1
+                },
+                {
+                  "id": "class_13_ability_356",
+                  "name": "Marching Beat",
+                  "level": 1
+                },
+                {
+                  "id": "class_13_ability_357",
+                  "name": "Wistful Wounding",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_13_ability_358",
+                  "name": "Unending Chant",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_13_ability_359",
+                  "name": "Nimble Knife",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_13_ability_360",
+                  "name": "Soothing Lullaby",
+                  "level": 2
+                },
+                {
+                  "id": "class_13_ability_361",
+                  "name": "Change Tempo",
+                  "level": 2
+                },
+                {
+                  "id": "class_13_ability_362",
+                  "name": "Echoing Aria",
+                  "level": 3
+                },
+                {
+                  "id": "class_13_ability_363",
+                  "name": "Crippling Chorus",
+                  "level": 3
+                },
+                {
+                  "id": "class_13_ability_364",
+                  "name": "Disorenting Dirge",
+                  "level": 4
+                },
+                {
+                  "id": "class_13_ability_365",
+                  "name": "Inspiring Anthem",
+                  "level": 4
+                },
+                {
+                  "id": "class_13_ability_366",
+                  "name": "Melody and Harmony",
+                  "level": 5
+                },
+                {
+                  "id": "class_13_ability_367",
+                  "name": "Mobilizing Measure",
+                  "level": 5
+                },
+                {
+                  "id": "class_13_ability_368",
+                  "name": "Pull the Strings",
+                  "level": 6
+                },
+                {
+                  "id": "class_13_ability_369",
+                  "name": "Provoke Terror",
+                  "level": 6
+                },
+                {
+                  "id": "class_13_ability_370",
+                  "name": "Nightmare Serenade",
+                  "level": 7
+                },
+                {
+                  "id": "class_13_ability_371",
+                  "name": "Booming Proclamation",
+                  "level": 7
+                },
+                {
+                  "id": "class_13_ability_372",
+                  "name": "Tranquil Trill",
+                  "level": 8
+                },
+                {
+                  "id": "class_13_ability_373",
+                  "name": "Commanding Presence",
+                  "level": 8
+                },
+                {
+                  "id": "class_13_ability_374",
+                  "name": "Captivating Performance",
+                  "level": 9
+                },
+                {
+                  "id": "class_13_ability_375",
+                  "name": "Shadow Puppets",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_13_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_13_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_13_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_13_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_14",
+          "name": "Class 14",
+          "image_id": "class_14_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_14_ability_376",
+                  "name": "Rain of Arrows",
+                  "level": 1
+                },
+                {
+                  "id": "class_14_ability_377",
+                  "name": "Crippling Noose",
+                  "level": 1
+                },
+                {
+                  "id": "class_14_ability_378",
+                  "name": "Felling Swoop",
+                  "level": 1
+                },
+                {
+                  "id": "class_14_ability_379",
+                  "name": "Vital Charge",
+                  "level": 1
+                },
+                {
+                  "id": "class_14_ability_380",
+                  "name": "Race to the Grave",
+                  "level": 1
+                },
+                {
+                  "id": "class_14_ability_381",
+                  "name": "Multi-Pronged Assault",
+                  "level": 1
+                },
+                {
+                  "id": "class_14_ability_382",
+                  "name": "Detonation",
+                  "level": 1
+                },
+                {
+                  "id": "class_14_ability_383",
+                  "name": "Frightening Curse",
+                  "level": 1
+                },
+                {
+                  "id": "class_14_ability_384",
+                  "name": "Foot Snare",
+                  "level": 1
+                },
+                {
+                  "id": "class_14_ability_385",
+                  "name": "Solid Bow",
+                  "level": 1
+                },
+                {
+                  "id": "class_14_ability_386",
+                  "name": "A Moment's Peace",
+                  "level": 1
+                },
+                {
+                  "id": "class_14_ability_387",
+                  "name": "Swift Trickery",
+                  "level": 1
+                },
+                {
+                  "id": "class_14_ability_388",
+                  "name": "Sap Life",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_14_ability_389",
+                  "name": "The Hunt Begins",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_14_ability_390",
+                  "name": "Fresh Kill",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_14_ability_391",
+                  "name": "Expose",
+                  "level": 2
+                },
+                {
+                  "id": "class_14_ability_392",
+                  "name": "Relentless Offensive",
+                  "level": 2
+                },
+                {
+                  "id": "class_14_ability_393",
+                  "name": "Darkended Skies",
+                  "level": 3
+                },
+                {
+                  "id": "class_14_ability_394",
+                  "name": "Press the Attack",
+                  "level": 3
+                },
+                {
+                  "id": "class_14_ability_395",
+                  "name": "Singular Focus",
+                  "level": 4
+                },
+                {
+                  "id": "class_14_ability_396",
+                  "name": "Flight of Flame",
+                  "level": 4
+                },
+                {
+                  "id": "class_14_ability_397",
+                  "name": "Incescapable Fate",
+                  "level": 5
+                },
+                {
+                  "id": "class_14_ability_398",
+                  "name": "Wild Command",
+                  "level": 5
+                },
+                {
+                  "id": "class_14_ability_399",
+                  "name": "Nature's Hunger",
+                  "level": 6
+                },
+                {
+                  "id": "class_14_ability_400",
+                  "name": "Camouflage",
+                  "level": 6
+                },
+                {
+                  "id": "class_14_ability_401",
+                  "name": "Impending End",
+                  "level": 7
+                },
+                {
+                  "id": "class_14_ability_402",
+                  "name": "Crashing Wave",
+                  "level": 7
+                },
+                {
+                  "id": "class_14_ability_403",
+                  "name": "Rising Momentum",
+                  "level": 8
+                },
+                {
+                  "id": "class_14_ability_404",
+                  "name": "Feral Instincts",
+                  "level": 8
+                },
+                {
+                  "id": "class_14_ability_405",
+                  "name": "Predator and Prey",
+                  "level": 9
+                },
+                {
+                  "id": "class_14_ability_406",
+                  "name": "Lead to Slaughter",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_14_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_14_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_14_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_14_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_15",
+          "name": "Class 15",
+          "image_id": "class_15_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_15_ability_407",
+                  "name": "First Aid",
+                  "level": 1
+                },
+                {
+                  "id": "class_15_ability_408",
+                  "name": "Hand of the Surgeon",
+                  "level": 1
+                },
+                {
+                  "id": "class_15_ability_409",
+                  "name": "Hold Back the Pain",
+                  "level": 1
+                },
+                {
+                  "id": "class_15_ability_410",
+                  "name": "Booster Shot",
+                  "level": 1
+                },
+                {
+                  "id": "class_15_ability_411",
+                  "name": "Bloody Saw",
+                  "level": 1
+                },
+                {
+                  "id": "class_15_ability_412",
+                  "name": "Curative Mixture",
+                  "level": 1
+                },
+                {
+                  "id": "class_15_ability_413",
+                  "name": "Syringe",
+                  "level": 1
+                },
+                {
+                  "id": "class_15_ability_414",
+                  "name": "Battlefield Medicine",
+                  "level": 1
+                },
+                {
+                  "id": "class_15_ability_415",
+                  "name": "Triage",
+                  "level": 1
+                },
+                {
+                  "id": "class_15_ability_416",
+                  "name": "Mobile Response",
+                  "level": 1
+                },
+                {
+                  "id": "class_15_ability_417",
+                  "name": "Medical Pack",
+                  "level": 1,
+                  "special": "M"
+                },
+                {
+                  "id": "class_15_ability_418",
+                  "name": "Medical Pack",
+                  "level": 1,
+                  "special": "M"
+                },
+                {
+                  "id": "class_15_ability_419",
+                  "name": "Medical Pack",
+                  "level": 1,
+                  "special": "M"
+                },
+                {
+                  "id": "class_15_ability_420",
+                  "name": "Medical Pack",
+                  "level": 1,
+                  "special": "M"
+                },
+                {
+                  "id": "class_15_ability_421",
+                  "name": "Medical Pack",
+                  "level": 1,
+                  "special": "M"
+                },
+                {
+                  "id": "class_15_ability_422",
+                  "name": "Medical Pack",
+                  "level": 1,
+                  "special": "M"
+                },
+                {
+                  "id": "class_15_ability_423",
+                  "name": "Medical Pack",
+                  "level": 1,
+                  "special": "M"
+                },
+                {
+                  "id": "class_15_ability_424",
+                  "name": "Large Medical Pack",
+                  "level": 1,
+                  "special": "M"
+                },
+                {
+                  "id": "class_15_ability_425",
+                  "name": "Large Medical Pack",
+                  "level": 1,
+                  "special": "M"
+                },
+                {
+                  "id": "class_15_ability_426",
+                  "name": "Large Medical Pack",
+                  "level": 1,
+                  "special": "M"
+                },
+                {
+                  "id": "class_15_ability_427",
+                  "name": "Large Medical Pack",
+                  "level": 1,
+                  "special": "M"
+                },
+                {
+                  "id": "class_15_ability_428",
+                  "name": "Prevention Is Key",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_15_ability_429",
+                  "name": "Teamwork",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_15_ability_430",
+                  "name": "Vaccine",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_15_ability_431",
+                  "name": "Hamstring",
+                  "level": 2
+                },
+                {
+                  "id": "class_15_ability_432",
+                  "name": "Precaution",
+                  "level": 2
+                },
+                {
+                  "id": "class_15_ability_433",
+                  "name": "Regenerative Tissue",
+                  "level": 3
+                },
+                {
+                  "id": "class_15_ability_434",
+                  "name": "Vital Strike",
+                  "level": 3
+                },
+                {
+                  "id": "class_15_ability_435",
+                  "name": "Blood Transfusion",
+                  "level": 4
+                },
+                {
+                  "id": "class_15_ability_436",
+                  "name": "Do No Harm",
+                  "level": 4
+                },
+                {
+                  "id": "class_15_ability_437",
+                  "name": "Research the Cure",
+                  "level": 5
+                },
+                {
+                  "id": "class_15_ability_438",
+                  "name": "Amputate",
+                  "level": 5
+                },
+                {
+                  "id": "class_15_ability_439",
+                  "name": "Euthanize",
+                  "level": 6
+                },
+                {
+                  "id": "class_15_ability_440",
+                  "name": "Prescription",
+                  "level": 6
+                },
+                {
+                  "id": "class_15_ability_441",
+                  "name": "Master Physician",
+                  "level": 7
+                },
+                {
+                  "id": "class_15_ability_442",
+                  "name": "Surgeon's Satchel",
+                  "level": 7
+                },
+                {
+                  "id": "class_15_ability_443",
+                  "name": "Bedside Manner",
+                  "level": 8
+                },
+                {
+                  "id": "class_15_ability_444",
+                  "name": "Gentleman's Anger",
+                  "level": 8
+                },
+                {
+                  "id": "class_15_ability_445",
+                  "name": "Prep for Surgery",
+                  "level": 9
+                },
+                {
+                  "id": "class_15_ability_446",
+                  "name": "Grisly Trauma",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_15_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_15_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_15_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_15_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_16",
+          "name": "Class 16",
+          "image_id": "class_16_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_16_ability_447",
+                  "name": "Raw Enhancement",
+                  "level": 1
+                },
+                {
+                  "id": "class_16_ability_448",
+                  "name": "Pure Augmentation",
+                  "level": 1
+                },
+                {
+                  "id": "class_16_ability_449",
+                  "name": "Formless Power",
+                  "level": 1
+                },
+                {
+                  "id": "class_16_ability_450",
+                  "name": "Shaping the Ether",
+                  "level": 1
+                },
+                {
+                  "id": "class_16_ability_451",
+                  "name": "Stoking Hail",
+                  "level": 1
+                },
+                {
+                  "id": "class_16_ability_452",
+                  "name": "Tremulant Cyclone",
+                  "level": 1
+                },
+                {
+                  "id": "class_16_ability_453",
+                  "name": "Internal Vortex",
+                  "level": 1
+                },
+                {
+                  "id": "class_16_ability_454",
+                  "name": "Lava Eruption",
+                  "level": 1
+                },
+                {
+                  "id": "class_16_ability_455",
+                  "name": "Ice Spikes",
+                  "level": 1
+                },
+                {
+                  "id": "class_16_ability_456",
+                  "name": "Frigid Torrent",
+                  "level": 1
+                },
+                {
+                  "id": "class_16_ability_457",
+                  "name": "Malleable Evocation",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_16_ability_458",
+                  "name": "Brilliant Flash",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_16_ability_459",
+                  "name": "Encompassing Shadow",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_16_ability_460",
+                  "name": "Boiling Arc",
+                  "level": 2
+                },
+                {
+                  "id": "class_16_ability_461",
+                  "name": "Crystallizing Blast",
+                  "level": 2
+                },
+                {
+                  "id": "class_16_ability_462",
+                  "name": "Burial",
+                  "level": 3
+                },
+                {
+                  "id": "class_16_ability_463",
+                  "name": "Chain Lightning",
+                  "level": 3
+                },
+                {
+                  "id": "class_16_ability_464",
+                  "name": "Primal Duality",
+                  "level": 4
+                },
+                {
+                  "id": "class_16_ability_465",
+                  "name": "Gravel Vortex",
+                  "level": 4
+                },
+                {
+                  "id": "class_16_ability_466",
+                  "name": "Obsidian Shards",
+                  "level": 5
+                },
+                {
+                  "id": "class_16_ability_467",
+                  "name": "Winter's Edge",
+                  "level": 5
+                },
+                {
+                  "id": "class_16_ability_468",
+                  "name": "Eye of the Hurricane",
+                  "level": 6
+                },
+                {
+                  "id": "class_16_ability_469",
+                  "name": "Simulacrum",
+                  "level": 6
+                },
+                {
+                  "id": "class_16_ability_470",
+                  "name": "Vengeance",
+                  "level": 7
+                },
+                {
+                  "id": "class_16_ability_471",
+                  "name": "Pragmatic Reinforcement",
+                  "level": 7
+                },
+                {
+                  "id": "class_16_ability_472",
+                  "name": "Volatile Consumption",
+                  "level": 8
+                },
+                {
+                  "id": "class_16_ability_473",
+                  "name": "Elemental Aegis",
+                  "level": 8
+                },
+                {
+                  "id": "class_16_ability_474",
+                  "name": "Ethereal Manifestation",
+                  "level": 9
+                },
+                {
+                  "id": "class_16_ability_475",
+                  "name": "Eternal Equilibrium",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_16_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_16_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_16_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_16_sheet",
+              "name": "Sheet"
+            }
+          ]
+        },
+        {
+          "id": "class_17",
+          "name": "Class 17",
+          "image_id": "class_17_icon",
+          "items": [
+            {
+              "id": "ability",
+              "name": "Ability",
+              "items": [
+                {
+                  "id": "class_17_ability_477",
+                  "name": "Disorienting Roar",
+                  "level": 1
+                },
+                {
+                  "id": "class_17_ability_478",
+                  "name": "Spirit Swap",
+                  "level": 1
+                },
+                {
+                  "id": "class_17_ability_479",
+                  "name": "Venomous Ally",
+                  "level": 1
+                },
+                {
+                  "id": "class_17_ability_480",
+                  "name": "Relentless Ally",
+                  "level": 1
+                },
+                {
+                  "id": "class_17_ability_481",
+                  "name": "Concentrated Rage",
+                  "level": 1
+                },
+                {
+                  "id": "class_17_ability_482",
+                  "name": "Disappearing Wounds",
+                  "level": 1
+                },
+                {
+                  "id": "class_17_ability_483",
+                  "name": "Patch Fur",
+                  "level": 1
+                },
+                {
+                  "id": "class_17_ability_484",
+                  "name": "Maul",
+                  "level": 1
+                },
+                {
+                  "id": "class_17_ability_485",
+                  "name": "Forceful Swipe",
+                  "level": 1
+                },
+                {
+                  "id": "class_17_ability_486",
+                  "name": "Howling Bolts",
+                  "level": 1
+                },
+                {
+                  "id": "class_17_ability_487",
+                  "name": "Soaring Ally",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_17_ability_488",
+                  "name": "Focused Aggression",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_17_ability_489",
+                  "name": "Borrowed Essence",
+                  "level": 1,
+                  "special": "X"
+                },
+                {
+                  "id": "class_17_ability_490",
+                  "name": "Energizing Strike",
+                  "level": 2
+                },
+                {
+                  "id": "class_17_ability_491",
+                  "name": "Earthen Spikes",
+                  "level": 2
+                },
+                {
+                  "id": "class_17_ability_492",
+                  "name": "Vicious Ally",
+                  "level": 3
+                },
+                {
+                  "id": "class_17_ability_493",
+                  "name": "Unstoppable Beast",
+                  "level": 3
+                },
+                {
+                  "id": "class_17_ability_494",
+                  "name": "Ancient Ward",
+                  "level": 4
+                },
+                {
+                  "id": "class_17_ability_495",
+                  "name": "Punch Through",
+                  "level": 4
+                },
+                {
+                  "id": "class_17_ability_496",
+                  "name": "Rampage",
+                  "level": 5
+                },
+                {
+                  "id": "class_17_ability_497",
+                  "name": "Stone Sigil",
+                  "level": 5
+                },
+                {
+                  "id": "class_17_ability_498",
+                  "name": "Primal Blessing",
+                  "level": 6
+                },
+                {
+                  "id": "class_17_ability_499",
+                  "name": "Blood Hunger",
+                  "level": 6
+                },
+                {
+                  "id": "class_17_ability_500",
+                  "name": "Storm Sigil",
+                  "level": 7
+                },
+                {
+                  "id": "class_17_ability_501",
+                  "name": "Tyrannical Force",
+                  "level": 7
+                },
+                {
+                  "id": "class_17_ability_502",
+                  "name": "Lash Out",
+                  "level": 8
+                },
+                {
+                  "id": "class_17_ability_503",
+                  "name": "Natural Remedy",
+                  "level": 8
+                },
+                {
+                  "id": "class_17_ability_504",
+                  "name": "Jaws of Death",
+                  "level": 9
+                },
+                {
+                  "id": "class_17_ability_505",
+                  "name": "Tribal Sigil",
+                  "level": 9
+                }
+              ]
+            },
+            {
+              "id": "attack_modifier",
+              "name": "Attack Modifier",
+              "items": []
+            },
+            {
+              "id": "class_17_card_back",
+              "name": "Card Back"
+            },
+            {
+              "id": "class_17_lore",
+              "name": "Lore"
+            },
+            {
+              "id": "class_17_tracker",
+              "name": "Tracker"
+            },
+            {
+              "id": "class_17_sheet",
+              "name": "Sheet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "item",
+      "name": "Item",
+      "items": [
+        {
+          "id": "prosperity_01",
+          "name": "Prosperity 1",
+          "items": [
+            {
+              "id": "item_001",
+              "name": "Boots of Striding",
+              "type": "legs"
+            },
+            {
+              "id": "item_002",
+              "name": "Winged Shoes",
+              "type": "legs"
+            },
+            {
+              "id": "item_003",
+              "name": "Hide Armor",
+              "type": "body"
+            },
+            {
+              "id": "item_004",
+              "name": "Leather Armor",
+              "type": "body"
+            },
+            {
+              "id": "item_005",
+              "name": "Cloak of Invisibility",
+              "type": "body"
+            },
+            {
+              "id": "item_006",
+              "name": "Eagle-Eye Goggles",
+              "type": "head"
+            },
+            {
+              "id": "item_007",
+              "name": "Iron Helmet",
+              "type": "head"
+            },
+            {
+              "id": "item_008",
+              "name": "Heater Shield",
+              "type": "onehand"
+            },
+            {
+              "id": "item_009",
+              "name": "Piercing Bow",
+              "type": "twohands"
+            },
+            {
+              "id": "item_010",
+              "name": "War Hammer",
+              "type": "twohands"
+            },
+            {
+              "id": "item_011",
+              "name": "Poison Dagger",
+              "type": "onehand"
+            },
+            {
+              "id": "item_012",
+              "name": "Minor Healing Potion",
+              "type": "small"
+            },
+            {
+              "id": "item_013",
+              "name": "Minor Stamina Potion",
+              "type": "small"
+            },
+            {
+              "id": "item_014",
+              "name": "Minor Power Potion",
+              "type": "small"
+            }
+          ]
+        },
+        {
+          "id": "prosperity_02",
+          "name": "Prosperity 2",
+          "items": [
+            {
+              "id": "item_015",
+              "name": "Boots of Speed",
+              "type": "legs"
+            },
+            {
+              "id": "item_016",
+              "name": "Cloak of Pockets",
+              "type": "body"
+            },
+            {
+              "id": "item_017",
+              "name": "Empowering Talisman",
+              "type": "head"
+            },
+            {
+              "id": "item_018",
+              "name": "Battle-Axe",
+              "type": "onehand"
+            },
+            {
+              "id": "item_019",
+              "name": "Weighted Net",
+              "type": "twohands"
+            },
+            {
+              "id": "item_020",
+              "name": "Minor Mana Potion",
+              "type": "small"
+            },
+            {
+              "id": "item_021",
+              "name": "Stun Power",
+              "type": "small"
+            }
+          ]
+        },
+        {
+          "id": "prosperity_03",
+          "name": "Prosperity 3",
+          "items": [
+            {
+              "id": "item_022",
+              "name": "Heavy Greaves",
+              "type": "legs"
+            },
+            {
+              "id": "item_023",
+              "name": "Chainmail",
+              "type": "body"
+            },
+            {
+              "id": "item_024",
+              "name": "Amulet of Life",
+              "type": "head"
+            },
+            {
+              "id": "item_025",
+              "name": "Jagged Sword",
+              "type": "onehand"
+            },
+            {
+              "id": "item_026",
+              "name": "Long Spear",
+              "type": "twohands"
+            },
+            {
+              "id": "item_027",
+              "name": "Major Healing Potion",
+              "type": "small"
+            },
+            {
+              "id": "item_028",
+              "name": "Moon Earring",
+              "type": "small"
+            }
+          ]
+        },
+        {
+          "id": "prosperity_04",
+          "name": "Prosperity 4",
+          "items": [
+            {
+              "id": "item_029",
+              "name": "Comfortable Shoes",
+              "type": "legs"
+            },
+            {
+              "id": "item_030",
+              "name": "Studded Leather",
+              "type": "body"
+            },
+            {
+              "id": "item_031",
+              "name": "Hawk Helm",
+              "type": "head"
+            },
+            {
+              "id": "item_032",
+              "name": "Tower Shield",
+              "type": "onehand"
+            },
+            {
+              "id": "item_033",
+              "name": "Volatile Bomb",
+              "type": "onehand"
+            },
+            {
+              "id": "item_034",
+              "name": "Major Stamina Potion",
+              "type": "small"
+            },
+            {
+              "id": "item_035",
+              "name": "Falcon Figurine",
+              "type": "small"
+            }
+          ]
+        },
+        {
+          "id": "prosperity_05",
+          "name": "Prosperity 5",
+          "items": [
+            {
+              "id": "item_036",
+              "name": "Boots of Dashing",
+              "type": "legs"
+            },
+            {
+              "id": "item_037",
+              "name": "Robes of Evocation",
+              "type": "body"
+            },
+            {
+              "id": "item_038",
+              "name": "Heavy Basinet",
+              "type": "head"
+            },
+            {
+              "id": "item_039",
+              "name": "Hooked Chain",
+              "type": "twohands"
+            },
+            {
+              "id": "item_040",
+              "name": "Veratile Dagger",
+              "type": "onehand"
+            },
+            {
+              "id": "item_041",
+              "name": "Major Power Potion",
+              "type": "small"
+            },
+            {
+              "id": "item_042",
+              "name": "Ring of Haste",
+              "type": "small"
+            }
+          ]
+        },
+        {
+          "id": "prosperity_06",
+          "name": "Prosperity 6",
+          "items": [
+            {
+              "id": "item_043",
+              "name": "Boots of Quickness",
+              "type": "legs"
+            },
+            {
+              "id": "item_044",
+              "name": "Splintmail",
+              "type": "body"
+            },
+            {
+              "id": "item_045",
+              "name": "Pendant of Dark Pacts",
+              "type": "head"
+            },
+            {
+              "id": "item_046",
+              "name": "Spiked Shield",
+              "type": "onehand"
+            },
+            {
+              "id": "item_047",
+              "name": "Reaping Scythe",
+              "type": "twohands"
+            },
+            {
+              "id": "item_048",
+              "name": "Major Mana Potion",
+              "type": "small"
+            },
+            {
+              "id": "item_049",
+              "name": "Sun Earring",
+              "type": "small"
+            }
+          ]
+        },
+        {
+          "id": "prosperity_07",
+          "name": "Prosperity 7",
+          "items": [
+            {
+              "id": "item_050",
+              "name": "Steel Sabatons",
+              "type": "legs"
+            },
+            {
+              "id": "item_051",
+              "name": "Shadow Armor",
+              "type": "body"
+            },
+            {
+              "id": "item_052",
+              "name": "Protective Chain",
+              "type": "head"
+            },
+            {
+              "id": "item_053",
+              "name": "Black Knife",
+              "type": "onehand"
+            },
+            {
+              "id": "item_054",
+              "name": "Staff of Eminence",
+              "type": "twohands"
+            },
+            {
+              "id": "item_055",
+              "name": "Super Healing Potion",
+              "type": "small"
+            },
+            {
+              "id": "item_056",
+              "name": "Ring of Brutality",
+              "type": "small"
+            }
+          ]
+        },
+        {
+          "id": "prosperity_08",
+          "name": "Prosperity 8",
+          "items": [
+            {
+              "id": "item_057",
+              "name": "Serence Sandals",
+              "type": "legs"
+            },
+            {
+              "id": "item_058",
+              "name": "Cloak of Phasing",
+              "type": "body"
+            },
+            {
+              "id": "item_059",
+              "name": "Telescoptic Lens",
+              "type": "head"
+            },
+            {
+              "id": "item_060",
+              "name": "Unstable Explosives",
+              "type": "onehand"
+            },
+            {
+              "id": "item_061",
+              "name": "Wall Shield",
+              "type": "twohands"
+            },
+            {
+              "id": "item_062",
+              "name": "Doom Powder",
+              "type": "small"
+            },
+            {
+              "id": "item_063",
+              "name": "Lucky Eye",
+              "type": "small"
+            }
+          ]
+        },
+        {
+          "id": "prosperity_09",
+          "name": "Prosperity 9",
+          "items": [
+            {
+              "id": "item_064",
+              "name": "Boots of Sprinting",
+              "type": "legs"
+            },
+            {
+              "id": "item_065",
+              "name": "Platemail",
+              "type": "body"
+            },
+            {
+              "id": "item_066",
+              "name": "Mask of Terror",
+              "type": "head"
+            },
+            {
+              "id": "item_067",
+              "name": "Balanced Blade",
+              "type": "onehand"
+            },
+            {
+              "id": "item_068",
+              "name": "Halberd",
+              "type": "twohands"
+            },
+            {
+              "id": "item_069",
+              "name": "Star Earring",
+              "type": "small"
+            },
+            {
+              "id": "item_070",
+              "name": "Second Chance Ring",
+              "type": "small"
+            }
+          ]
+        },
+        {
+          "id": "random",
+          "name": "Random",
+          "items": [
+            {
+              "id": "item_071",
+              "name": "Boots of Levitation",
+              "type": "legs"
+            },
+            {
+              "id": "item_072",
+              "name": "Shoes of Happiness",
+              "type": "legs"
+            },
+            {
+              "id": "item_073",
+              "name": "Blinking Cape",
+              "type": "body"
+            },
+            {
+              "id": "item_074",
+              "name": "Swordedge Armor",
+              "type": "body"
+            },
+            {
+              "id": "item_075",
+              "name": "Circlet of Elements",
+              "type": "head"
+            },
+            {
+              "id": "item_076",
+              "name": "Chain Hood",
+              "type": "head"
+            },
+            {
+              "id": "item_077",
+              "name": "Frigid Blade",
+              "type": "onehand"
+            },
+            {
+              "id": "item_078",
+              "name": "Storm Blade",
+              "type": "onehand"
+            },
+            {
+              "id": "item_079",
+              "name": "Inferno Blade",
+              "type": "onehand"
+            },
+            {
+              "id": "item_080",
+              "name": "Tremor Blade",
+              "type": "onehand"
+            },
+            {
+              "id": "item_081",
+              "name": "Brilliant Blade",
+              "type": "onehand"
+            },
+            {
+              "id": "item_082",
+              "name": "Night Blade",
+              "type": "onehand"
+            },
+            {
+              "id": "item_083",
+              "name": "Wand of Frost",
+              "type": "onehand"
+            },
+            {
+              "id": "item_084",
+              "name": "Wand of Storms",
+              "type": "onehand"
+            },
+            {
+              "id": "item_085",
+              "name": "Wand of Infernos",
+              "type": "onehand"
+            },
+            {
+              "id": "item_086",
+              "name": "Wand of Tremors",
+              "type": "onehand"
+            },
+            {
+              "id": "item_087",
+              "name": "Wand of Brilliance",
+              "type": "onehand"
+            },
+            {
+              "id": "item_088",
+              "name": "Wand of Darkness",
+              "type": "onehand"
+            },
+            {
+              "id": "item_089",
+              "name": "Minor Cure Potion",
+              "type": "onehand"
+            },
+            {
+              "id": "item_090",
+              "name": "Major Cure Potion",
+              "type": "onehand"
+            },
+            {
+              "id": "item_091",
+              "name": "Steel Ring",
+              "type": "small"
+            },
+            {
+              "id": "item_092",
+              "name": "Dampening Ring",
+              "type": "small"
+            },
+            {
+              "id": "item_093",
+              "name": "Scroll of Power",
+              "type": "small"
+            },
+            {
+              "id": "item_094",
+              "name": "Scroll of Healing",
+              "type": "small"
+            },
+            {
+              "id": "item_095",
+              "name": "Scroll of Stamina",
+              "type": "small"
+            }
+          ]
+        },
+        {
+          "id": "other",
+          "name": "Other",
+          "items": [
+            {
+              "id": "item_096",
+              "name": "Rocket Boots",
+              "type": "legs"
+            },
+            {
+              "id": "item_097",
+              "name": "Endurance Footwraps",
+              "type": "legs"
+            },
+            {
+              "id": "item_098",
+              "name": "Drakescale Boots",
+              "type": "legs"
+            },
+            {
+              "id": "item_099",
+              "name": "Magma Waders",
+              "type": "legs"
+            },
+            {
+              "id": "item_100",
+              "name": "Robes of Summoning",
+              "type": "body"
+            },
+            {
+              "id": "item_101",
+              "name": "Second Skin",
+              "type": "body"
+            },
+            {
+              "id": "item_102",
+              "name": "Sacrificial Robes",
+              "type": "body"
+            },
+            {
+              "id": "item_103",
+              "name": "Drakescale Armor",
+              "type": "body"
+            },
+            {
+              "id": "item_104",
+              "name": "Steam Armor",
+              "type": "body"
+            },
+            {
+              "id": "item_105",
+              "name": "Flea-Bitten Shawl",
+              "type": "body"
+            },
+            {
+              "id": "item_106",
+              "name": "Necklace of Teeth",
+              "type": "head"
+            },
+            {
+              "id": "item_107",
+              "name": "Horned Helm",
+              "type": "head"
+            },
+            {
+              "id": "item_108",
+              "name": "Drakescale Helm",
+              "type": "head"
+            },
+            {
+              "id": "item_109",
+              "name": "Thief's Hood",
+              "type": "head"
+            },
+            {
+              "id": "item_110",
+              "name": "Helm of the Mountain",
+              "type": "head"
+            },
+            {
+              "id": "item_111",
+              "name": "Wave Crest",
+              "type": "head"
+            },
+            {
+              "id": "item_112",
+              "name": "Ancient Drill",
+              "type": "twohands"
+            },
+            {
+              "id": "item_113",
+              "name": "Skullbane Axe",
+              "type": "twohands"
+            },
+            {
+              "id": "item_114",
+              "name": "Staff of Xorn",
+              "type": "twohands"
+            },
+            {
+              "id": "item_115",
+              "name": "Mountain Hammer",
+              "type": "twohands"
+            },
+            {
+              "id": "item_116",
+              "name": "Fueled Falchion",
+              "type": "onehand"
+            },
+            {
+              "id": "item_117",
+              "name": "Bloody Axe",
+              "type": "onehand"
+            },
+            {
+              "id": "item_118",
+              "name": "Staff of Elements",
+              "type": "twohands"
+            },
+            {
+              "id": "item_119",
+              "name": "Skull of Hatred",
+              "type": "onehand"
+            },
+            {
+              "id": "item_120",
+              "name": "Staff of Summoning",
+              "type": "twohands"
+            },
+            {
+              "id": "item_121",
+              "name": "Orb of Dawn",
+              "type": "onehand"
+            },
+            {
+              "id": "item_122",
+              "name": "Orb of Twilight",
+              "type": "onehand"
+            },
+            {
+              "id": "item_123",
+              "name": "Ring of Skulls",
+              "type": "small"
+            },
+            {
+              "id": "item_124",
+              "name": "Doomed Compass",
+              "type": "small"
+            },
+            {
+              "id": "item_125",
+              "name": "Curious Gear",
+              "type": "small"
+            },
+            {
+              "id": "item_126",
+              "name": "Remote Spider",
+              "type": "small"
+            },
+            {
+              "id": "item_127",
+              "name": "Giant Remote Spider",
+              "type": "small"
+            },
+            {
+              "id": "item_128",
+              "name": "Black Censer",
+              "type": "small"
+            },
+            {
+              "id": "item_129",
+              "name": "Black Card",
+              "type": "small"
+            },
+            {
+              "id": "item_130",
+              "name": "Helix Ring",
+              "type": "small"
+            },
+            {
+              "id": "item_131",
+              "name": "Heart of the Betrayer",
+              "type": "small"
+            },
+            {
+              "id": "item_132",
+              "name": "Power Core",
+              "type": "small"
+            },
+            {
+              "id": "item_133",
+              "name": "Resonant Crystal",
+              "type": "small"
+            }
+          ]
+        },
+        {
+          "id": "solo",
+          "name": "Solo",
+          "items": [
+            {
+              "id": "item_134",
+              "name": "Imposing Blade",
+              "image_id": "class_01_icon",
+              "type": "onehand"
+            },
+            {
+              "id": "item_135",
+              "name": "Focusing Ray",
+              "image_id": "class_02_icon",
+              "type": "onehand"
+            },
+            {
+              "id": "item_136",
+              "name": "Volatile Elixir",
+              "image_id": "class_03_icon",
+              "type": "small"
+            },
+            {
+              "id": "item_137",
+              "name": "Silent Stiletto",
+              "image_id": "class_04_icon",
+              "type": "onehand"
+            },
+            {
+              "id": "item_138",
+              "name": "Stone Charm",
+              "image_id": "class_05_icon",
+              "type": "head"
+            },
+            {
+              "id": "item_139",
+              "name": "Psychic Knife",
+              "image_id": "class_06_icon",
+              "type": "onehand"
+            },
+            {
+              "id": "item_140",
+              "name": "Sun Shield",
+              "image_id": "class_07_icon",
+              "type": "onehand"
+            },
+            {
+              "id": "item_141",
+              "name": "Utility Belt",
+              "image_id": "class_08_icon",
+              "type": "small"
+            },
+            {
+              "id": "item_142",
+              "name": "Phasing Idol",
+              "image_id": "class_09_icon",
+              "type": "small"
+            },
+            {
+              "id": "item_143",
+              "name": "Smoke Elixir",
+              "image_id": "class_10_icon",
+              "type": "small"
+            },
+            {
+              "id": "item_144",
+              "name": "Pendant of the Plague",
+              "image_id": "class_11_icon",
+              "type": "head"
+            },
+            {
+              "id": "item_145",
+              "name": "Mask of Death",
+              "image_id": "class_12_icon",
+              "type": "head"
+            },
+            {
+              "id": "item_146",
+              "name": "Master's Lute",
+              "image_id": "class_13_icon",
+              "type": "twohands"
+            },
+            {
+              "id": "item_147",
+              "name": "Cloak of the Hunter",
+              "image_id": "class_14_icon",
+              "type": "body"
+            },
+            {
+              "id": "item_148",
+              "name": "Doctor's Coat",
+              "image_id": "class_15_icon",
+              "type": "body"
+            },
+            {
+              "id": "item_149",
+              "name": "Elemental Boots",
+              "image_id": "class_16_icon",
+              "type": "legs"
+            },
+            {
+              "id": "item_150",
+              "name": "Staff of Command",
+              "image_id": "class_17_icon",
+              "type": "twohands"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

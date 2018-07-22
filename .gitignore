@@ -1,0 +1,6 @@
+*.pyc
+.env
+.yarnclean
+.DS_Store
+client/node_modules
+client/dist
