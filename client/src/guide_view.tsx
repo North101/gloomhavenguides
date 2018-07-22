@@ -121,6 +121,7 @@ class GuideViewItemComment extends React.Component<GuideViewItemCommentProps, {}
 interface GuideViewItemImageProps {
   image: types.GuideDataItemImage;
   width: number;
+  align: null | "left" | "center" | "right";
   onClick: () => void;
 }
 
@@ -129,13 +130,18 @@ class GuideViewItemImage extends React.Component<GuideViewItemImageProps, any> {
     return !deepEqual(this.state, nextState);
   }
 
+  onClick = () => {
+    this.props.onClick();
+  }
+
   render() {
-    if (this.props.image.image.length == 0) return null;
+    const { image, align, width } = this.props;
+    if (image.image.length == 0) return null;
 
     return (
-      <div className="guide-item-image" style={{ width: `${this.props.width}%` }}>
-        <StyledGuideSpoilerView spoiler={this.props.image.spoiler} index={0} subindex={0}>
-          <GuideViewImage onClick={this.props.onClick} image={this.props.image.image}/>
+      <div className="guide-item-image" style={{ width: `${width}%`, justifyContent: align }}>
+        <StyledGuideSpoilerView spoiler={image.spoiler} index={0} subindex={0}>
+          <GuideViewImage onClick={this.onClick} image={image.image}/>
         </StyledGuideSpoilerView>
       </div>
     )
@@ -170,13 +176,19 @@ class GuideViewItemImages extends React.Component<GuideViewItemImagesProps, {spo
 
   render() {
     let rows = this.props.item.rows || Math.min(this.props.item.images.length, 5);
-    let align = this.props.item.align || this.props.item.images.length == 1 ? "center" : "left";
+    let align: null | "left" | "center" | "right" = this.props.item.align || this.props.item.images.length == 1 ? "center" : "left";
 
     return (
       <StyledGuideSpoilerView spoiler={this.state.spoiler} index={this.props.index} subindex={this.props.subindex}>
-        <div className="guide-item-images" style={{ justifyContent: align }}>
+        <div className="guide-item-images">
           {this.props.item.images.map((image, index) => {
-             return <GuideViewItemImage onClick={() => this.props.onClickImages(this.props.item.images, index)} key={index} image={image} width={1 / rows * 100}/>
+             return <GuideViewItemImage
+               onClick={() => this.props.onClickImages(this.props.item.images, index)}
+               key={index}
+               image={image}
+               width={1 / rows * 100}
+               align={align}
+             />
           })}
         </div>
       </StyledGuideSpoilerView>
