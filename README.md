@@ -1,44 +1,45 @@
-# Python: Getting Started
+# Installing
 
-A barebones Django app, which can easily be deployed to Heroku.
-
-This application supports the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out.
-
-## Running Locally
-
-Make sure you have Python [installed properly](http://install.python-guide.org). Also, install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) and [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup).
+## Server:
+Install mongodb  
+Install Python3  
+Install pipenv  
 
 ```sh
-$ git clone git@github.com:heroku/python-getting-started.git
-$ cd python-getting-started
-
 $ pipenv install
-
-$ createdb python_getting_started
-
-$ python manage.py migrate
-$ python manage.py collectstatic
-
-$ heroku local
 ```
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
-
-## Deploying to Heroku
+## Client:
+Install node  
+Install yarn  
 
 ```sh
-$ heroku create
-$ git push heroku master
-
-$ heroku run python manage.py migrate
-$ heroku open
+$ cd ./client
+$ yarn install
 ```
-or
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+# Setup:
 
-## Documentation
+## Server:
+Create ./.env file with the following:  
+```
+JWT_SECRET_KEY=secret
+MONGODB_URI=gloomhavenguides
+```
 
-For more information about using Python on Heroku, see these Dev Center articles:
+# Running:
 
-- [Python on Heroku](https://devcenter.heroku.com/categories/python)
+## Server:
+```sh
+$ mongod
+$ python3 ./run.py
+```
+
+## Client:
+```sh
+$ cd ./client
+$ yarn start
+```
+
+Use the url given by running the client.  
+Server will serve built client files while the client will hot reload on client source file changes.  
